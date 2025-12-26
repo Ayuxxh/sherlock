@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 Carbonmade
 Code Snippet Wiki
 Fandom
@@ -9,7 +8,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -18,7 +16,6 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wordnik
 YandexMusic
 opennet
 phpRU
