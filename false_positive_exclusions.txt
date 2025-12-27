@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Carbonmade
+CGTrader
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -16,7 +16,6 @@ SlideShare
 Splice
 Spotify
 Weblate
-YandexMusic
 opennet
 phpRU
 svidbook
