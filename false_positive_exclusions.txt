@@ -1,7 +1,10 @@
 APClips
 Archive.org
+CGTrader
+Chess
 Code Snippet Wiki
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -17,6 +20,7 @@ Smule
 Splice
 Spotify
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
