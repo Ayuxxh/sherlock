@@ -1,15 +1,12 @@
 APClips
 Archive.org
-CGTrader
-Chess
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,8 +16,8 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
