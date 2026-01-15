@@ -7,7 +7,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Minecraft
+LushStories
 PocketStars
 Realmeye
 Reddit
