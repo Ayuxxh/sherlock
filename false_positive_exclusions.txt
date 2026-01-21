@@ -1,14 +1,12 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
-Minecraft
+LushStories
 PocketStars
 Realmeye
 Reddit
@@ -24,4 +22,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
