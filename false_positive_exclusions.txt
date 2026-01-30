@@ -1,15 +1,12 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-ImgUp.cz
-LiveJournal
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -25,4 +22,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
