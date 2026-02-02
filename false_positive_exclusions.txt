@@ -1,10 +1,7 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
-DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -18,7 +15,7 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
+Strava
 Weblate
 YandexMusic
 mercadolivre
