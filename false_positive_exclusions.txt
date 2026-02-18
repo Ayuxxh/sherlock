@@ -18,7 +18,7 @@ Splice
 Spotify
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
