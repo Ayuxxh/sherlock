@@ -1,17 +1,19 @@
 APClips
 Archive.org
-CGTrader
+Carbonmade
 Code Snippet Wiki
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Hubski
+Itch.io
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -23,6 +25,5 @@ Spotify
 TryHackMe
 Weblate
 mercadolivre
-opennet
 phpRU
 svidbook
