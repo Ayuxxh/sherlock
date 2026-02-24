@@ -1,17 +1,14 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
@@ -22,8 +19,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
