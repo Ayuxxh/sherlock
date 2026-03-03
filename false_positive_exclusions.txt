@@ -1,10 +1,12 @@
 APClips
 Archive.org
-CGTrader
+Carbonmade
 Codolio
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
@@ -20,6 +22,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
