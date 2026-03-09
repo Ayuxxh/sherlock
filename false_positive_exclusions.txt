@@ -19,14 +19,14 @@ RocketTube
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
+opennet
 phpRU
 svidbook
