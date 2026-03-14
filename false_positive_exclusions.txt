@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -20,11 +21,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
 minds
+opennet
 phpRU
 svidbook
