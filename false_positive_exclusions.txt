@@ -4,9 +4,12 @@ Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -23,6 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
