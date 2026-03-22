@@ -2,7 +2,6 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -28,6 +27,8 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
