@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Blogger
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -19,7 +20,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -28,7 +28,5 @@ Weblate
 YandexMusic
 mercadolivre
 minds
-opennet
 phpRU
 svidbook
-xHamster
