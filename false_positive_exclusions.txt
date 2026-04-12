@@ -24,12 +24,11 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
-eintracht
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
