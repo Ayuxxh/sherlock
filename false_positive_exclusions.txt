@@ -10,6 +10,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -25,7 +26,9 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
+YandexMusic
 dailykos
 interpals
 mercadolivre
