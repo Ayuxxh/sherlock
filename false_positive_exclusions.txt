@@ -10,11 +10,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-LessWrong
 LushStories
-Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,7 +24,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
+Venmo
 Weblate
 YandexMusic
 dailykos
@@ -35,3 +33,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
