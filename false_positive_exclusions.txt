@@ -5,6 +5,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -12,7 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Outgress
+Itch.io
+LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
