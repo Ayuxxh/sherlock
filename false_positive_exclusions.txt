@@ -1,21 +1,21 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
-Itch.io
+LessWrong
 LushStories
-Minecraft
 Patched
 Rarible
 Realmeye
@@ -37,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
