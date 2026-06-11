@@ -2,7 +2,6 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
@@ -14,6 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -25,6 +25,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
