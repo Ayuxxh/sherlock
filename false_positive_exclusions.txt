@@ -1,35 +1,35 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+BoardGameGeek
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
 Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -43,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
