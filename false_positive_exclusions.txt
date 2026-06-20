@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -23,12 +24,12 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -42,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
