@@ -6,19 +6,17 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 LessWrong
 Odysee
 PCGamer
-Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,10 +27,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
