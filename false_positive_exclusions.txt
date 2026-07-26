@@ -13,9 +13,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 Odysee
+OurDJTalk
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -26,9 +27,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
