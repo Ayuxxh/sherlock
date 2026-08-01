@@ -14,11 +14,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -31,6 +32,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+SmugMug
 Splice
 Spotify
 Trakt
