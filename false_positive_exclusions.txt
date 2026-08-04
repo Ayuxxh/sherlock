@@ -3,8 +3,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Bandcamp
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -17,7 +17,6 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -32,10 +31,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -43,7 +41,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
