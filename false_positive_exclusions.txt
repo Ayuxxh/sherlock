@@ -16,7 +16,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 Odysee
 PCGamer
 Patched
