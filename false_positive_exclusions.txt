@@ -18,7 +18,6 @@ Houzz
 Hubski
 Instapaper
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -33,11 +32,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
