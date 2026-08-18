@@ -4,12 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
+Dribbble
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -18,10 +18,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+Minecraft
 Odysee
-OurDJTalk
-Outgress
 PCGamer
 Patched
 Rarible
@@ -42,6 +40,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
