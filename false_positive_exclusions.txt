@@ -8,8 +8,6 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -20,6 +18,7 @@ Hubski
 Instapaper
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -33,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
