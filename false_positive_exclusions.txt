@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -34,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -49,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
