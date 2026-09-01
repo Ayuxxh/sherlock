@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -50,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
