@@ -4,9 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -19,8 +19,8 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,7 +36,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
