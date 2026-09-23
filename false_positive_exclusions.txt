@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,12 +12,14 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Forum Ophilia
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
+Linktree
 ObservableHQ
 Odysee
 PCGamer
@@ -39,6 +40,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
@@ -49,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
