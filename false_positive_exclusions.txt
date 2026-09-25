@@ -19,6 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -37,7 +38,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -51,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
