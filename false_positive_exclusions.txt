@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,12 +15,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -36,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
@@ -53,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
