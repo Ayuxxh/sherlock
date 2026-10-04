@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -11,9 +12,9 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
@@ -34,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
