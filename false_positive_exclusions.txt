@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
-Carrd
 Championat
 Chatujme.cz
 ChaturBate
@@ -37,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
