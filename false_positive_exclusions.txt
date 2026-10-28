@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -36,6 +37,7 @@ Splice
 Spotify
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -48,3 +50,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
