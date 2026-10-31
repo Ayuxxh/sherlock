@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -33,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Vero
 YandexMusic
