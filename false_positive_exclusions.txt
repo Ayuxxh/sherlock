@@ -4,11 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Audiojungle
-Blogger
-Championat
 Chatujme.cz
 Codolio
-Cplusplus
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -17,8 +14,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -32,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -44,7 +41,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
